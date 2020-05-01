@@ -1,0 +1,82 @@
+    1  exit
+    2  ls
+    3  ls -ltr
+    4  cd
+    5  cd
+    6  cd
+    7  su
+    8  help
+    9  cal
+   10  date
+   11  cd ..
+   12  cd /etc/fstab 
+   13  exit
+   14  exit
+   15  exit
+   16  cd git
+   17  ls -ltr
+   18  cd test/
+   19  ls
+   20  y
+   21  git status
+   22  git status
+   23  git init
+   24  ls -ltr
+   25  ls -altr
+   26  pwd
+   27  git status
+   28  git config --global --list
+   29  git config --global --list
+   30  git config --list
+   31  git config --list --show-origin
+   32  git config --list --global
+   33  git config --list --local
+   34  git config user.name
+   35  git config --list
+   36  git config --list
+   37  git log
+   38  ls
+   39  ls
+   40  git commit linux.html -m first
+   41  git commit linux.html -m first
+   42  ls
+   43  git commit linux.html -m first
+   44  git status
+   45  git config --global user.name “Vimal Daga”
+   46  git config --global user.name “pankaj kumar sharma”
+   47  git config --global user.name “pankaj kumar sharma”
+   48  git config --global --rename-section  user.name “pankaj kumar sharma”
+   49  git config user.name
+   50  git config user.name
+   51  git config --rename-section  user.name   vimal   pankaj
+   52  git config --list
+   53  ~/.gitconfig
+   54  ~/.gitconfig
+   55  git config --global user.name "Pankaj Kumar Sharma"
+   56  git config --global user.email “156.pankaj@gmail.com"
+
+
+
+
+   57  git config --global user.email “156.pankaj@gmail.com"
+   58  git config --list
+   59  git config --global user.email 156.panakj@gmail.com
+   60  git config --list
+   61  git config --global user.email 156.pankaj@gmail.com
+   62  git config --list
+   63  cat linux.html 
+   64  gitlog
+   65  git log
+   66  git status
+   67  git commit linux.html  -m first
+   68  git add linux.html 
+   69  git status
+   70  git commit linux.html  -m first
+   71  git log linux.html
+   72  git push
+   73  git remote -v
+   74  git remote add myfirst https://github.com/pankajk156/devopsal2.git
+   75  git remote -v
+   76  git push --set-upstream myfirst  master 
+   77  history
+   78  history > push.txt
